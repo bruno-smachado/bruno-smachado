@@ -22,3 +22,5 @@
   <a href = "mailto:bruno.mach1996@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-liandro-01b69028a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+[![MuaKissGIF](https://github.com/user-attachments/assets/d7a50061-56d8-45b5-8e72-38f5fddc3ebc)]

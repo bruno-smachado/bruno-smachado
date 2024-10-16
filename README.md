@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/bruno-smachado">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-smachado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-smachado&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-smachado&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-smachado&layout=compact&langs_count=6&theme=synthwave"/>
 </div>
     
 <div style="display: inline_block"><br>
